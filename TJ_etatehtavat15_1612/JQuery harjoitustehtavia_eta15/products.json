@@ -1,0 +1,5 @@
+{
+    "products":
+[
+    {"id":1,"device":"Webcam","manufacturer":"Skalith","purchaseDate":"23.06.2011","price":"€39,66"},{"id":2,"device":"Monitor","manufacturer":"Roodel","purchaseDate":"26.04.2011","price":"€32,38"},{"id":3,"device":"Networkcard","manufacturer":"Twitterbeat","purchaseDate":"17.05.2014","price":"€20,47"},{"id":4,"device":"Digitalcamera","manufacturer":"Trilith","purchaseDate":"29.12.2013","price":"€21,97"},{"id":5,"device":"SoundCard","manufacturer":"Tagchat","purchaseDate":"14.07.2012","price":"€75,02"},{"id":6,"device":"Headsets","manufacturer":"Geba","purchaseDate":"22.09.2010","price":"€94,70"},{"id":7,"device":"Networkcard","manufacturer":"Bubbletube","purchaseDate":"13.07.2014","price":"€72,32"},{"id":8,"device":"Webcam","manufacturer":"Buzzshare","purchaseDate":"08.06.2011","price":"€34,28"},{"id":9,"device":"Speaker","manufacturer":"Shufflester","purchaseDate":"13.09.2013","price":"€58,31"},{"id":10,"device":"Digitalcamera","manufacturer":"Yata","purchaseDate":"11.08.2013","price":"€82,30"}]
+}

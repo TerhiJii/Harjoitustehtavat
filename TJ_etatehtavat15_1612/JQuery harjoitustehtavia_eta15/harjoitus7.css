@@ -1,0 +1,8 @@
+.animate {  
+    background-image: url("cat.jpg");
+      background-size:236px 225px;
+      background-repeat:no-repeat;
+     height:236px;
+      width:225px;
+      position:absolute;
+}

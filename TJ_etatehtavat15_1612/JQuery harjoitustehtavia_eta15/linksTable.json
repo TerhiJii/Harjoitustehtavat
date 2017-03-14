@@ -1,0 +1,10 @@
+{
+    "links":
+    [
+        {"address":"http://www.w3schools.com/js/js_intro.asp", "text":"Properties"},
+        {"address":"http://www.w3schools.com/js/js_string_methods.asp", "text":"String methods"},
+        {"address":"http://www.w3schools.com/js/js_functions.asp", "text":"Functions"},
+        {"address":"http://javascript.info/tutorial/objects#creating-objects", "text":"Creating"},
+        {"address":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects", "text":"All Objects"}
+    ]
+}

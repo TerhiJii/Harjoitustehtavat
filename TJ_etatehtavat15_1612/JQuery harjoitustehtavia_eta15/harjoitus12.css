@@ -1,0 +1,46 @@
+#drag1{
+    position: absolute;
+    left: 5px;
+    top: 350px;
+}
+
+#drag2{
+    position: absolute;
+    left: 100px;
+    top: 350px;
+}
+
+#drag3{
+    position: absolute;
+    left: 5px;
+    top: 460px;
+}
+
+#drag4{
+    position: absolute;
+    left: 100px;
+    top: 460px;
+}
+
+#drag5{
+    position: absolute;
+    left: 5px;
+    top: 570px;
+    
+}
+.draggable{
+    background-color:deepskyblue;
+    height: 100px;
+    border: 1px dashed gray;
+    cursor: pointer;
+}
+
+#target{
+    background-color:darkgray;
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    position: absolute;
+    left: 5px;
+    top: 32px;
+}

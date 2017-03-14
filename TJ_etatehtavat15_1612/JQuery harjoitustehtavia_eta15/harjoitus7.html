@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    <title>Animate</title>
+    <link rel="stylesheet" href="harjoitus7.css">
+    
+    </head>
+<body>
+
+    
+
+
+ <div class="animate"></div>
+    
+
+<!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <!-- your own code-->
+    <script> 
+        $(document).ready(function(){
+            var div = $("div");
+            div.animate({left: '600px'}, "slow");
+            div.animate({top: '400px'}, "slow");
+            div.animate({bottom: '1500px'}, "slow");
+    });
+    </script>  
+
+</body>
+</html>

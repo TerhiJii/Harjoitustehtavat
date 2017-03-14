@@ -1,0 +1,187 @@
+{
+    "recordsTeam": {
+		"team": "Arsenal",
+		"description": "Top records",
+		"record": [
+			         {
+				    "description": "Biggest win",
+				    "type": "Home matches",
+				    "match": {
+					   "date": "12th September 2015",
+					   "homeTeam": "Arsenal",
+					   "homeTeamScore": "2",
+					   "awayTeamScore": "0",
+					   "awayTeam": "Stoke City",
+					   "attendance": "59963"
+				        }
+			         },
+			     {
+				    "description": "Biggest win",
+				    "type": "Away matches",
+				    "match": {
+					   "date": "26th September 2015",
+					   "homeTeam": "Leicester City",
+					   "homeTeamScore": "2",
+					   "awayTeamScore": "5",
+					   "awayTeam": "Arsenal",
+					   "attendance": "32047"
+				        }
+			     },
+			     {
+				    "description": "Biggest win",
+				    "type": "All matches",
+				    "match": {
+					   "date": "26th September 2015",
+					   "homeTeam": "Leicester City",
+					   "homeTeamScore": "2",
+					   "awayTeamScore": "5",
+					   "awayTeam": "Arsenal",
+					   "attendance": "32047"
+				        }
+			     },
+			     {
+				    "description": "Heaviest defeat",
+				    "type": "Home matches",
+				    "match": {
+					   "date": "9th August 2015",
+					   "homeTeam": "Arsenal",
+					   "homeTeamScore": "0",
+					   "awayTeamScore": "2",
+					   "awayTeam": "West Ham United",
+					   "attendance": "59996"
+				    }
+			     },
+			     {
+				    "description": "Heaviest defeat",
+				    "type": "Away matches",
+				    "match": {
+					   "date": "19th September 2015",
+					   "homeTeam": "Chelsea",
+					   "homeTeamScore": "2",
+					   "awayTeamScore": "0",
+					   "awayTeam": "Arsenal",
+					   "attendance": "41584"
+				    }
+			     },
+			     {
+				    "description": "Heaviest defeat",
+				    "type": "All matches",
+				    "match": {
+				        "date": "9th August 2015",
+						"homeTeam": "Arsenal",
+						"homeTeamScore": "0",
+						"awayTeamScore": "2",
+						"awayTeam": "West Ham United",
+						"attendance": "59996"
+					   }
+			     },
+			     {
+				    "description": "Highest scoring",
+				    "type": "Home matches",
+				    "match": {
+					   "date": "29th September 2015",
+					   "homeTeam": "Arsenal",
+					   "homeTeamScore": "2",
+					   "awayTeamScore": "3",
+					   "awayTeam": "Olympiakos"
+				    }
+			     },
+			     {
+				    "description": "Highest scoring",
+				    "type": "Away matches",
+				    "match": {
+					   "date": "26th September 2015",
+					   "homeTeam": "Leicester City",
+					   "homeTeamScore": "2",
+					   "awayTeamScore": "5",
+					   "awayTeam": "Arsenal",
+					   "attendance": "32047"
+				    }
+			     },
+			     {
+				    "description": "Highest scoring",
+				    "type": "All matches",
+				    "match": {
+					   "date": "26th September 2015",
+					   "homeTeam": "Leicester City",
+					   "homeTeamScore": "2",
+					   "awayTeamScore": "5",
+					   "awayTeam": "Arsenal",
+					   "attendance": "32047"
+				    }
+			     },
+			     {
+				    "description": "Highest attendance",
+				    "type": "Home matches",
+				    "match": {
+					   "date": "24th August 2015",
+					   "homeTeam": "Arsenal",
+					   "homeTeamScore": "0",
+					   "awayTeamScore": "0",
+					   "awayTeam": "Liverpool",
+					   "attendance": "60080"
+				    }
+			     },
+			     {
+				    "description": "Highest attendance",
+				    "type": "Away matches",
+				    "match": {
+					   "date": "29th August 2015",
+					   "homeTeam": "Newcastle United",
+					   "homeTeamScore": "0",
+					   "awayTeamScore": "1",
+					   "awayTeam": "Arsenal",
+					   "attendance": "50388"
+				    }
+			     },
+			     {
+				    "description": "Highest attendance",
+				    "type": "All matches",
+				    "match": {
+					   "date": "24th August 2015",
+					   "homeTeam": "Arsenal",
+					   "homeTeamScore": "0",
+					   "awayTeamScore": "0",
+					   "awayTeam": "Liverpool",
+					   "attendance": "60080"
+				    }
+			     },
+			     {
+				    "description": "Lowest attendance",
+				    "type": "Home matches",
+				    "match": {
+					   "date": "12th September 2015",
+					   "homeTeam": "Arsenal",
+					   "homeTeamScore": "2",
+					   "awayTeamScore": "0",
+					   "awayTeam": "Stoke City",
+					   "attendance": "59963"
+				    }
+			     },
+			     {
+				    "description": "Lowest attendance",
+				    "type": "Away matches",
+				    "match": {
+					   "date": "16th August 2015",
+					   "homeTeam": "Crystal Palace",
+					   "homeTeamScore": "1",
+					   "awayTeamScore": "2",
+					   "awayTeam": "Arsenal",
+					   "attendance": "24732"
+				    }
+			     },
+			     {
+				    "description": "Lowest attendance",
+				    "type": "All matches",
+				    "match": {
+					   "date": "16th August 2015",
+					   "homeTeam": "Crystal Palace",
+					   "homeTeamScore": "1",
+					   "awayTeamScore": "2",
+					   "awayTeam": "Arsenal",
+					   "attendance": "24732"
+				    }
+			     }
+            ]
+	   }
+}
